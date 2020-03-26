@@ -101,6 +101,7 @@ STATICFILES_DIRS = (
     # Don't forget to use absolute paths, not relative paths.
     # "/home/arshdeep/django/imagepro/myapp/templates/static",
 	"C:/Users/Zach/Desktop/Spring 20/Cloud/image project/imagepro/myapp/templates/static",
+	"/home/ec2-user/project1/cloud-image-project/myapp/templates/static",
     os.path.join(os.path.realpath(__file__), '/templates/static/'),
 )
 
